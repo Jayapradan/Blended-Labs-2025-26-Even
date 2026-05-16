@@ -5,7 +5,11 @@
 Scale and Load Balance Your Architecture
 
 Author :  R Abinav Kumar
+
+
 Reg no :212224210001
+
+
 Date : 18-05-2026
 
 ---
