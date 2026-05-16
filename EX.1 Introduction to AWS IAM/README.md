@@ -72,7 +72,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author:
-## Name: 
-## Reg No: 
+## Name: R Abinav Kumar
+## Reg No: 212224210001
 **Course:** Introduction to Cloud Computing  
 
